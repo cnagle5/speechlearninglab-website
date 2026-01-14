@@ -8,10 +8,10 @@ title: "Research Projects"
 
 ![](images/project nsf.jpg){width=400px}
 
-**Funding**: National Science Foundation Grant #2309561  
-**Duration**: 2022-2026 
-**Team**: Shelby Bruun, Louis Gehrke, Declan Revenew, Dana Sola
-**Collaborators**: Melissa Baese-Berk (University of Chicago)
+**Funding**: National Science Foundation Grant #2309561 <br> 
+**Duration**: 2022-2026 <br>
+**Team**: Shelby Bruun, Louis Gehrke, Declan Revenew, Dana Sola <br>
+**Collaborators**: Melissa Baese-Berk (University of Chicago) <br>
 
 Successful spoken language learning requires both perceiving and producing speech sounds. Although these abilities are often assumed to develop together, evidence suggests that their relationship is more complex and may change over time. Despite this, few studies have examined how perception and production interact longitudinally during second language speech learning. This project uses training studies to investigate how perception–production relationships develop over time for speech sounds.
 
@@ -27,10 +27,10 @@ Nagle, C., Bruun, S., & Baese-Berk, M. (2023). Perceptual assimilation of Spanis
 
 ![](images/project hvpt.jpg){width=400px}
 
-**Funding**: Supported by the College of Liberal Arts Undergraduate Research Assistantship Program
-**Duration**: 2022-2026  
-**Team**: Shelby Bruun, Declan Revenew
-**Collaborators**: Germán Zárate-Sández (Western Michigan University)
+**Funding**: Supported by the College of Liberal Arts Undergraduate Research Assistantship Program <br>
+**Duration**: 2022-2026 <br>
+**Team**: Shelby Bruun, Declan Revenew <br>
+**Collaborators**: Germán Zárate-Sández (Western Michigan University) <br>
 
 Learning a new language often involves mastering speech sounds that are difficult to hear and produce. Our project investigates how learners can be trained to perceive these unfamiliar sounds more effectively using high variability phonetic training, a method that exposes learners to speech from multiple talkers with feedback. We examine how factors such as the number of talkers, their presentation, and the amount of training influence learning outcomes. By embedding this training into introductory Spanish courses and having students complete sessions at home, we assess how well phonetic training works in realistic classroom settings.
 

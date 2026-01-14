@@ -6,7 +6,7 @@ title: "People"
 
 ### Dr. Charlie Nagle
 
-![PI Photo](images/Nagle Charlie.jpg){width=200px}
+![](images/Nagle Charlie.jpg){width=200px}
 
 **Position**: Associate Professor  
 **Email**: speechlearninglab@austin.utexas.edu
