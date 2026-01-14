@@ -1,0 +1,25 @@
+name: "my-lab-website"
+output_dir: "docs"
+navbar:
+  title: "Speech Learning Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Publications"
+      href: publications.html
+  right:
+    - icon: fa-envelope
+      href: mailto:speechlearninglab@austin.utexas.edu
+    - icon: fa-github
+      href: https://github.com/yourlab
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+    include:
+      after_body: footer.html

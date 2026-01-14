@@ -1,0 +1,31 @@
+---
+title: "Recent Products"
+---
+
+## Journal Articles
+
+### 2026
+
+**Nagle, C.** (in press). From effective to optimal: A research agenda for advancing pronunciation instruction. *Language Teaching*.
+
+### 2025
+
+**Nagle, C.**, **Bruun, S.**, & Zárate-Sández, G. (2025). Comparing lower and higher variability multitalker perceptual training. *Applied Psycholinguistics*, *46*, e14. https://doi.org/10.1017/S0142716425000141. Open science package: https://osf.io/mnks9/overview. 
+
+---
+
+## Selected Conference Papers
+
+### 2025
+
+**Bruun, S.**, **Nagle, C.**, & Zárate-Sández, G. (2025, October). *Efficiency without compromise: Refinining high variability pronunciation training through trial count and talker variability.* Paper presented at the 16th Pronunciation in Second Language Learning and Teaching Conference, Montréal, Québec.
+
+**Nagle, C.**, Zárate-Sández, G., & **Bruun, S.** (2025, September). *Adjusting session length and talker presentation format to improve classroom-based per-ception training*. Paper presented at the Second Language Research Forum, Flagstaff, AZ.
+
+**Nagle, C.**, **Bruun, S.**, & Zárate-Sández, G. (2025, April). *Examining engagement, persistence, and performance in at-home perceptual training*. Paper presented at the 11th International Symposium on the Acquisition of Second Language Speech, Toronto, Ontario.
+
+### 2024
+
+Baese-Berk, M., & **Nagle, C.** (2024, November). *Individual differences in the perception of unfamiliar speech sounds.* Paper presented at the Psychonomic Society 65th Annual Meeting, New York City, NY.
+
+*Note: Lab members' names are in bold.*

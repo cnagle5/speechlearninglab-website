@@ -1,0 +1,51 @@
+/* Custom styles for academic lab website */
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding-top: 70px;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+  margin-top: 30px;
+}
+
+h2 {
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+img {
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+hr {
+  margin: 30px 0;
+  border-top: 1px solid #ecf0f1;
+}
+
+/* Style for publication lists */
+ol {
+  line-height: 1.8;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Footer styling */
+.footer {
+  margin-top: 50px;
+  padding: 20px 0;
+  border-top: 1px solid #ecf0f1;
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 0.9em;
+}

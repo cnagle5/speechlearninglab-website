@@ -1,0 +1,43 @@
+---
+title: "Research Projects"
+---
+
+## Current Projects
+
+### Project 1: Perception-Production Link in Second Language Speech Sound Category Learning
+
+![](images/project nsf.jpg){width=400px}
+
+**Funding**: National Science Foundation Grant #2309561  
+**Duration**: 2022-2026 
+**Team**: Shelby Bruun, Louis Gehrke, Declan Revenew, Dana Sola
+**Collaborators**: Melissa Baese-Berk (University of Chicago)
+
+Successful spoken language learning requires both perceiving and producing speech sounds. Although these abilities are often assumed to develop together, evidence suggests that their relationship is more complex and may change over time. Despite this, few studies have examined how perception and production interact longitudinally during second language speech learning. This project uses training studies to investigate how perception–production relationships develop over time for speech sounds.
+
+We have built a web-based training interface and developed workflows for automated extraction of key acoustic data, using the Dr. VOT (https://github.com/MLSpeech/Dr.VOT). Currently, we are focusing on two manuscripts: (1) relationship between individual differences and initial perception and production patterns and (2) learning trajectories under two training conditions, perception only (six sessions, two per week, all dedicated to perception work) and perception-production blocked by session (six sessions, two per week, one focused on perception work and the other on production work). 
+
+**Key Products**:
+
+Nagle, C., Bruun, S., & Baese-Berk, M. (2023). Perceptual assimilation of Spanish, Thai, and Korean stop consonants by native English speakers. In R. Skarnitzl & J. Volín (Eds.) *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 476-480). Guarant International.
+
+---
+
+### Project 2: Optimizing Perception Learning
+
+![](images/project hvpt.jpg){width=400px}
+
+**Funding**: Supported by the College of Liberal Arts Undergraduate Research Assistantship Program
+**Duration**: 2022-2026  
+**Team**: Shelby Bruun, Declan Revenew
+**Collaborators**: Germán Zárate-Sández (Western Michigan University)
+
+Learning a new language often involves mastering speech sounds that are difficult to hear and produce. Our project investigates how learners can be trained to perceive these unfamiliar sounds more effectively using high variability phonetic training, a method that exposes learners to speech from multiple talkers with feedback. We examine how factors such as the number of talkers, their presentation, and the amount of training influence learning outcomes. By embedding this training into introductory Spanish courses and having students complete sessions at home, we assess how well phonetic training works in realistic classroom settings.
+
+Each semester, we have implemented a new version of training based on the previous semester's data, with the goal of making the training more effective, efficient, and engaging. For a project overview with methodological details, see Nagle (2026). For our report on the first semester of training, see Nagle et al. (2025).
+
+**Key Products**:
+
+Nagle, C. (in press). From effective to optimal: A research agenda for advancing pronunciation instruction. *Language Teaching*.
+
+Nagle, C., Bruun, S., & Zárate-Sández, G. (2025). Comparing lower and higher variability multitalker perceptual training. *Applied Psycholinguistics*, *46*, e14. https://doi.org/10.1017/S0142716425000141. Open science package: https://osf.io/mnks9/overview. 
