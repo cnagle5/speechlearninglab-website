@@ -12,6 +12,9 @@ Our research focuses on speech learning in additional languages, including the p
 
 ### Latest News
 
+**August 2026** Shelby Bruun was awarded a Language Learning Dissertation Grant to support her work on L2 speech category learning<br> 
+**May 2026** Undergraduate Researcher Makai Moore was awarded a Rising Researcher Award by the College of Liberal Arts<br>
+**April 2026** Declan Revenew successfully defended his qualifying paper, *Evaluating L2 Learners' Tap-Trill Contrast in Controlled and Spontaneous Speech*<br>
 **December 2025** Shelby Bruun successfully defended her dissertation proposal, *Enhancing Perceptual Strategies for Second Language Speech Learning Through L1-Based Scaffolding in High-Variability Pronunciation Training*<br>
 
 ### Contact
