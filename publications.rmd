@@ -1,31 +1,35 @@
 ---
-title: "Recent Products"
+title: "Recent Lab Products"
 ---
 
 ## Journal Articles
 
 ### 2026
 
-**Nagle, C.** (in press). From effective to optimal: A research agenda for advancing pronunciation instruction. *Language Teaching*.
+Nagle, C. (2026). From effective to optimal: A research agenda for advancing pronunciation instruction. *Language Teaching*. 1-21. Advance online publication. https://doi.org/10.1017/S0261444825101079 
 
 ### 2025
 
-**Nagle, C.**, **Bruun, S.**, & Zárate-Sández, G. (2025). Comparing lower and higher variability multitalker perceptual training. *Applied Psycholinguistics*, *46*, e14. https://doi.org/10.1017/S0142716425000141. Open science package: https://osf.io/mnks9/overview. 
+Nagle, C., Bruun, S., & Zárate-Sández, G. (2025). Comparing lower and higher variability multitalker perceptual training. *Applied Psycholinguistics*, *46*, e14. https://doi.org/10.1017/S0142716425000141. Open science package: https://osf.io/mnks9/overview. 
 
 ---
 
-## Selected Conference Papers
+## Conference Papers
+
+### 2026
+
+Nagle, C., Bruun, S., & Bease-Berk, M. (2026, October). *Examining the development of novel phonological categories in Thai and Korean.* Paper presented at the Second Language Research Forum, Montréal, Québec. *Note: This presentation focused on Identification (perception) and Picture Naming (production) learning*
+
+Gehrke, L., Nagle, C., & Sola, D. (2026, September). *Learner proficiency, verb frequency, and talker effects in L2 learners' perception of Spanish lexical stress.* Paper presented at the 17th Pronunciation in Second Language Learning and Teaching Conference, Ames, Iowa.
+
+Moore, M., Bruun, S., & Nagle, C. (2026, September). *Taking high variability pronunciation training out of the lab: The role of device and focus.* Paper presented at the 17th Pronunciation in Second Language Learning and Teaching Conference, Ames, Iowa.
+
+Nagle, C., Bruun, S., & Bease-Berk, M. (2026, September). *Examining the development of novel phonological categories in Thai and Korean.* Paper presented at the 17th Pronunciation in Second Language Learning and Teaching Conference, Ames, Iowa. *Note: This presentation focused on ABX discrimination and Identification (perception) learning*
 
 ### 2025
 
-**Bruun, S.**, **Nagle, C.**, & Zárate-Sández, G. (2025, October). *Efficiency without compromise: Refinining high variability pronunciation training through trial count and talker variability.* Paper presented at the 16th Pronunciation in Second Language Learning and Teaching Conference, Montréal, Québec.
+Bruun, S., Nagle, C., & Zárate-Sández, G. (2025, October). *Efficiency without compromise: Refinining high variability pronunciation training through trial count and talker variability.* Paper presented at the 16th Pronunciation in Second Language Learning and Teaching Conference, Montréal, Québec.
 
-**Nagle, C.**, Zárate-Sández, G., & **Bruun, S.** (2025, September). *Adjusting session length and talker presentation format to improve classroom-based per-ception training*. Paper presented at the Second Language Research Forum, Flagstaff, AZ.
+Nagle, C., Zárate-Sández, G., & Bruun, S. (2025, September). *Adjusting session length and talker presentation format to improve classroom-based per-ception training*. Paper presented at the Second Language Research Forum, Flagstaff, AZ.
 
-**Nagle, C.**, **Bruun, S.**, & Zárate-Sández, G. (2025, April). *Examining engagement, persistence, and performance in at-home perceptual training*. Paper presented at the 11th International Symposium on the Acquisition of Second Language Speech, Toronto, Ontario.
-
-### 2024
-
-Baese-Berk, M., & **Nagle, C.** (2024, November). *Individual differences in the perception of unfamiliar speech sounds.* Paper presented at the Psychonomic Society 65th Annual Meeting, New York City, NY.
-
-*Note: Lab members' names are in bold.*
+Nagle, C., Bruun, S., & Zárate-Sández, G. (2025, April). *Examining engagement, persistence, and performance in at-home perceptual training*. Paper presented at the 11th International Symposium on the Acquisition of Second Language Speech, Toronto, Ontario.
