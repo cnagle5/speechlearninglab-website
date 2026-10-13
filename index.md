@@ -4,7 +4,7 @@ title: "Welcome!"
 
 ## About the Lab
 
-Welcome to the Speech Learning Lab at the University of Texas at Austin. Our lab is built on reciprocity and shared investment. Lab members work on projects that fit their interests and expertise. We run design, pilot, and run projects and present and publish together, which creates opportunities for hands-on research and professional training. 
+Welcome to the Speech Learning Lab at the University of Texas at Austin. Our lab is built on reciprocity and shared investment. Lab members work on projects that fit their interests and expertise. We design, pilot, and run projects and present and publish together, which creates opportunities for hands-on research and professional training. 
 
 ### Research Focus
 
