@@ -42,6 +42,8 @@ Nagle, C. (2026). From effective to optimal: A research agenda for advancing pro
 
 Nagle, C., Bruun, S., & Zárate-Sández, G. (2025). Comparing lower and higher variability multitalker perceptual training. *Applied Psycholinguistics*, *46*, e14. https://doi.org/10.1017/S0142716425000141. Open science package: https://osf.io/mnks9/overview. 
 
+---
+
 ### Project 3: Sound Communities
 
 Austin is known for its high concentration of Spanish speakers, yet Spanish-speaking density varies considerably across the city, with some neighborhoods far more “Spanish-saturated” than others. This study investigates potential community-level effects on speech production and perception among Austin residents, asking whether living in a more Spanish-saturated neighborhood leads people to perceive and produce speech sounds in more Spanish-like ways. Our goal is to characterize the pronunciation patterns of Spanish-English bilingual Austin.
